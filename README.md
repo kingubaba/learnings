@@ -1,0 +1,2 @@
+# learnings
+learn new tech
